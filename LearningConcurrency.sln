@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningConcurrency", "LearningConcurrency\LearningConcurrency.csproj", "{E92220DC-3030-4E81-A85D-5F507EB46F0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D5E7BF65-6BC0-4FD0-A2A4-BE89F28E512F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E92220DC-3030-4E81-A85D-5F507EB46F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E92220DC-3030-4E81-A85D-5F507EB46F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E92220DC-3030-4E81-A85D-5F507EB46F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E7BF65-6BC0-4FD0-A2A4-BE89F28E512F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E7BF65-6BC0-4FD0-A2A4-BE89F28E512F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E7BF65-6BC0-4FD0-A2A4-BE89F28E512F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E7BF65-6BC0-4FD0-A2A4-BE89F28E512F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
